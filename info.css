@@ -1,0 +1,37 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.greenery{
+  color:#2ecc71;
+  background-color:white;
+}
+.border-green{
+  border: 1px solid #2ecc71;
+}
+.image-size{
+ width: 200px;
+ height: 200px;
+}
+.text-aligncenter {
+  text-align: center;
+}
+.siver {
+  color:#bdc3c7;
+}
+.margin-space {
+   margin-top:40px;
+}
+.padding-space {
+  padding-top:40px;
+}
+
+div .new-style{
+  color: mintcream
+}
+p{
+   color:#f1c40f;
+}
+div .new.style{
+  color:#f1c40f;
+}
