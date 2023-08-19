@@ -1,0 +1,47 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.box {
+  border:1px solid #2ecc71;
+  text-emphasis-color:#2ecc71;
+}
+
+
+.btn-outline-success{
+  color: #f1c40f;
+  border-color: #f1c40f;
+ }
+
+.btn-outline-success:hover{
+  background-color:#f1c40f;
+  color:#f1c40f;
+  border-color: #f1c40f; 
+ } 
+
+.yelly-outline{
+  color: #2ecc71;
+  font-size: 2em ;
+}
+
+.yelly-outline:hover{
+  background-color:ivory;
+  color:#f1c40f;
+  border-coloer:#f1c40f;
+}
+@media screen and (max-width:48rem) 
+ {
+  .first-line
+   {
+    text-align:center;
+    padding:left: 2rem;
+    padding-right: 2rem;
+    boder-bottom : 1px solid #2ecc71 ;
+   }
+
+@media screen and (max-width:48rem)
+{
+ .third-line{
+   display:block; 
+  } 
+ }
